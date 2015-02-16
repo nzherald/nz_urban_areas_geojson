@@ -1,0 +1,23 @@
+{
+  "name": "nz_urban_areas_geojson",
+  "version": "1.0.0",
+  "authors": [
+    "Caleb Tutty <caleb.tutty@nzherald.co.nz>"
+  ],
+  "description": "New Zealand Territorial Authority Subdivisions Constituencies data as GeoJSON",
+  "keywords": [
+    "geojson",
+    "new zealand",
+    "census"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ]
+}
