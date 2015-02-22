@@ -3,6 +3,15 @@ nz_urban_areas_geojson
 
 Census Urban Area boundaries as used by Statistics New Zealand, converted to GeoJSON
 
+## Licencing
+
+This work is based on/includes [Statistics New Zealand](http://www.stats.govt.nz/)'s data which are
+licensed by Statistics New Zealand for re-use under the [Creative Commons Attribution 3.0 New Zealand
+licence](http://creativecommons.org/licenses/by/3.0/nz/).
+
+Source ESRI shapefiles are available on the [Statistics NZ
+website](http://www.stats.govt.nz/browse_for_stats/people_and_communities/Geographic-areas/digital-boundary-files.aspx).
+
 ### Special note about this dataset
 
 Urban areas also include a layer with the ID of 502, which is the shape
